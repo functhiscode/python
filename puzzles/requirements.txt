@@ -1,0 +1,10 @@
+# Data Science and Machine Learning Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+flask
+django

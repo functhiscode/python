@@ -1,0 +1,23 @@
+# Data Science and Machine Learning Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+flask
+django
+torch
+torchvision 
+torchaudio
+keras
+beautifulsoup4
+opencv-python
+pydot
+theano
+scrapy
+plotly
+pycaret
+bokeh
+ggplot

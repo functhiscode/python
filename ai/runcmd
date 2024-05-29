@@ -1,0 +1,1 @@
+docker run -it --rm --gpus all -p 8888:8888 -v $(realpath ~/code/python/ai/notebooks):/tf/notebooks my_ai_image 
