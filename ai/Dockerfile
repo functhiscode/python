@@ -23,6 +23,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
+#Install Juypter Notebook extensions
+RUN pip install jupyterlab-myst jupyter_contrib_nbextensions notebook jupyterlab
+
 # Copy requirements file
 COPY requirements.txt .
 
