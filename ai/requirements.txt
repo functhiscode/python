@@ -21,6 +21,7 @@ patsy
 patsy
 Pillow
 plotly
+polars
 protobuf
 psutil
 ptflops
